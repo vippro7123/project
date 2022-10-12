@@ -1,0 +1,5 @@
+com\sopvn\demosingleton\model\db\DbConnection.class
+com\sopvn\demosingleton\App.class
+module-info.class
+com\sopvn\demosingleton\PrimaryController.class
+com\sopvn\demosingleton\SecondaryController.class
